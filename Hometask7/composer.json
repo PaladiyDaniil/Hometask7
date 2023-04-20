@@ -1,0 +1,17 @@
+{
+    "name": "hometask7/myproject1",
+    "description": "My first project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hometask7\\Myproject1\\": "MyProject/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniil,",
+            "email": "paladiy.daniil@gmail.com"
+        }
+    ],
+    "require": {}
+}
